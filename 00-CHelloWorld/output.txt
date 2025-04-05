@@ -1,0 +1,4 @@
+C:\Users\Marcos\CLionProjects\hello\cmake-build-debug\hello.exe
+Hello, World!
+
+Process finished with exit code 0
