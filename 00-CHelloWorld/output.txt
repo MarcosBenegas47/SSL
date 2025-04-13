@@ -1,4 +1,4 @@
-C:\Users\Marcos\CLionProjects\hello\cmake-build-debug\hello.exe
+Marcos@DESKTOP-1K975SB MINGW64 ~/Desktop/hola
+$ ./hola
 Hello, World!
 
-Process finished with exit code 0
