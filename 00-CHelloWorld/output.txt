@@ -1,4 +1,0 @@
-Marcos@DESKTOP-1K975SB MINGW64 ~/Desktop/hola
-$ ./hola
-Hello, World!
-
